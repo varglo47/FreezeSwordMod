@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "freezesword",
+	"version": "1.0.0",
+	"name": "Freeze Sword",
+	"description": "This simple sword adds a Freeze sword! It freezes players that get attacked by it. If you aren't lazy, you can customize this sword in the source code, I put some instructions there! You can customize particles, sounds, sword texture, sword effect, name, description and a few more.",
+
+	"authors": [
+		"Varglo47"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod",
+		"youtube": "https://www.youtube.com/@Varglo47"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/freezesword/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.twojanazwa.freezesword.FreezeSword"
+		]
+	},
+
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": ">=0.100.0"
+	},
+	"mixins": [
+		"freezesword.mixins.json"
+	]
+}
+

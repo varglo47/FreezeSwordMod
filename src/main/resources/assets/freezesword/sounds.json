@@ -1,0 +1,9 @@
+{
+  "freeze_hit": {
+    "sounds": [
+      "freezesword:freeze_hit1",
+      "freezesword:freeze_hit2",
+      "freezesword:freeze_hit3"
+    ]
+  }
+}

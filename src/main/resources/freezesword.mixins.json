@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "com.twojanazwa.freezesword.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"FreezeMovementMixin",
+		"EnchantmentHelperMixin",
+		"AnvilScreenHandlerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
