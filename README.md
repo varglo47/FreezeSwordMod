@@ -2,10 +2,10 @@
 It's a simple mod that adds a custom freeze sword to the game with a lot of simple functions.
 
 # Instalation
-Download the mod file on the modrinth site:
-https://modrinth.com/mod/freeze-sword
-Put the file in .minecraft/mods folder
-Remember that you need fabric-api mod and fabric loader.
+1.  Download the mod file on the modrinth site:
+https://modrinth.com/mod/freeze-sword.
+2.  Put the file in .minecraft/mods folder
+2.1 Remember that you need fabric-api mod and fabric loader.
 
 # Configuration
 After you launch minecraft with this mod for the first time, a file called freezesword.toml will be created in .minecraft/config folder.
