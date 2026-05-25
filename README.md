@@ -16,5 +16,4 @@ You can use a command "/freezesword reload" in the game, but it won't work for a
 Only fabric api + fabric loader.
 
 # License 
-This mod is licensed under the [MIT License](LICENSE).# Mod
-It's a simple mod that adds a custom freeze sword to the game with a lot of simple functions.
+This mod is licensed under the [MIT License](LICENSE).
